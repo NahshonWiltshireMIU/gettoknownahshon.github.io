@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Nahshon Wiltshire&#39;s Blog</title>
-        <link>https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/</link>
+        <link>https://github.com/gettoknownahshon.github.io/post/</link>
         <description>Recent content in Posts on Nahshon Wiltshire&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/gettoknownahshon.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Professional Life</title>
-        <link>https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/professional-life/</link>
+        <link>https://github.com/gettoknownahshon.github.io/post/professional-life/</link>
         <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/professional-life/</guid>
-        <description>&lt;img src="https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/professional-life/images.jpg" alt="Featured image of post Professional Life" /&gt;&lt;p&gt;Just to get to know me a little better, here are some of the projects and activities pertaining to my professional life and accomplishments.&lt;/p&gt;
+        <guid>https://github.com/gettoknownahshon.github.io/post/professional-life/</guid>
+        <description>&lt;img src="https://github.com/gettoknownahshon.github.io/post/professional-life/images.jpg" alt="Featured image of post Professional Life" /&gt;&lt;p&gt;Just to get to know me a little better, here are some of the projects and activities pertaining to my professional life and accomplishments.&lt;/p&gt;
 &lt;h3 id=&#34;programming-and-application-development&#34;&gt;Programming and Application Development
 &lt;/h3&gt;&lt;p&gt;Current projects include:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Text to Speech natural reader&lt;/strong&gt; - This idea came about after the release of &amp;ldquo;Kokoro&amp;rdquo;, a text to speech language model which is quite fascinating to see a model of just 82 million parameters able to create such crisp and clear audio. At the end of this project I wish to modify the os context menu using a registry change where the user can highlight some text and right click to open the context menu where the text could be read to the user in a natural language.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Loss Event Risk Register&lt;/strong&gt; - This project is still in progress, but the general idea is a solution to monitor various risks and near misses in a business setting. The expectation is that reports can be quickly generated for executive summaries or audits.&lt;/p&gt;
 &lt;h2 id=&#34;here-is-a-sample-of-kokoro-tts-text-to-speech&#34;&gt;Here is a sample of Kokoro TTS (Text to Speech)
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;audio/sample.wav&#34; &gt;&lt;img src=&#34;https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/professional-life/icons/play.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;audio/sample.wav&#34; &gt;&lt;img src=&#34;https://github.com/gettoknownahshon.github.io/post/professional-life/icons/play.jpg&#34;
 	width=&#34;360&#34;
 	height=&#34;360&#34;
-	srcset=&#34;https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/professional-life/icons/play_hu_2a8326bafd74e67f.jpg 480w, https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/professional-life/icons/play_hu_5d60e7dc751029bf.jpg 1024w&#34;
+	srcset=&#34;https://github.com/gettoknownahshon.github.io/post/professional-life/icons/play_hu_2a8326bafd74e67f.jpg 480w, https://github.com/gettoknownahshon.github.io/post/professional-life/icons/play_hu_5d60e7dc751029bf.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Click to play audio&#34;
@@ -36,10 +36,10 @@
         </item>
         <item>
         <title>In My Spare Time .....</title>
-        <link>https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/content/</link>
+        <link>https://github.com/gettoknownahshon.github.io/post/content/</link>
         <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/content/</guid>
+        <guid>https://github.com/gettoknownahshon.github.io/post/content/</guid>
         <description>&lt;p&gt;My main goto for peace and relaxation include music production and fishing.&lt;/p&gt;
 &lt;h2 id=&#34;&#34;&gt;
 &lt;/h2&gt;&lt;h2 id=&#34;music-production&#34;&gt;Music Production
@@ -66,10 +66,10 @@
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;fishing&#34;&gt;Fishing
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/content/images/image1.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/gettoknownahshon.github.io/post/content/images/image1.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;1600&#34;
-	srcset=&#34;https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/content/images/image1_hu_dee757297ceb13db.jpg 480w, https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/content/images/image1_hu_b046f2519fac1ebb.jpg 1024w&#34;
+	srcset=&#34;https://github.com/gettoknownahshon.github.io/post/content/images/image1_hu_dee757297ceb13db.jpg 480w, https://github.com/gettoknownahshon.github.io/post/content/images/image1_hu_b046f2519fac1ebb.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image 1&#34;
@@ -80,10 +80,10 @@
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/content/images/image2.jpg&#34;
+&lt;img src=&#34;https://github.com/gettoknownahshon.github.io/post/content/images/image2.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;1600&#34;
-	srcset=&#34;https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/content/images/image2_hu_c9f678973b66f501.jpg 480w, https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/content/images/image2_hu_d3660463700a38f2.jpg 1024w&#34;
+	srcset=&#34;https://github.com/gettoknownahshon.github.io/post/content/images/image2_hu_c9f678973b66f501.jpg 480w, https://github.com/gettoknownahshon.github.io/post/content/images/image2_hu_d3660463700a38f2.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image 2&#34;
@@ -94,10 +94,10 @@
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/content/images/image3.jpg&#34;
+&lt;img src=&#34;https://github.com/gettoknownahshon.github.io/post/content/images/image3.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;1600&#34;
-	srcset=&#34;https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/content/images/image3_hu_46ac9b634bbd15fd.jpg 480w, https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/content/images/image3_hu_32b384deb0190f07.jpg 1024w&#34;
+	srcset=&#34;https://github.com/gettoknownahshon.github.io/post/content/images/image3_hu_46ac9b634bbd15fd.jpg 480w, https://github.com/gettoknownahshon.github.io/post/content/images/image3_hu_32b384deb0190f07.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image 3&#34;
@@ -108,10 +108,10 @@
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/content/images/image4.jpg&#34;
+&lt;img src=&#34;https://github.com/gettoknownahshon.github.io/post/content/images/image4.jpg&#34;
 	width=&#34;900&#34;
 	height=&#34;1600&#34;
-	srcset=&#34;https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/content/images/image4_hu_f9fe2d79183c75dc.jpg 480w, https://github.com/NahshonWiltshireMIU/gettoknownahshon.github.io/post/content/images/image4_hu_edeba85ea883a850.jpg 1024w&#34;
+	srcset=&#34;https://github.com/gettoknownahshon.github.io/post/content/images/image4_hu_f9fe2d79183c75dc.jpg 480w, https://github.com/gettoknownahshon.github.io/post/content/images/image4_hu_edeba85ea883a850.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image 4&#34;
